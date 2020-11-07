@@ -1,5 +1,5 @@
 # botst4rz
-BOT WHATSAPP HP BINTANG NUR PRADANA
+BOT WHATSAPP HP ITSMEIKYXSEC404
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
@@ -17,7 +17,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/Bintang73/botst4rz.git
+> git clone https://github.com/RizkyMaulanaSidikXD
 > cd botst4rz
 > bash install.sh
 > node index.js
@@ -49,4 +49,4 @@ Sebelum lu jalanin sc nya install dulu lah.
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/donate/bintangnurpradana)
+* [`Saweria`](https://saweria.co/donate/itsmeiky)
